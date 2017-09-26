@@ -7,4 +7,3 @@ class Dog
     @dog_name = dog_ name
   end
 end
-
